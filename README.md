@@ -9,9 +9,8 @@ You found a builder of crazy, cool systems. I love art, but my canvas is technol
 Some things I’ve actually built (so far):
 - AI Coding Agent for Cline (current gig)
 - Enterprise AI Coding Agent for Sourcegraph’s Cody Team + AmpCode
-- LLM powered O1 Visa builder at ImmigrantFirst
-- Core infra at Shopify that kept things running while you were buying your Black Friday stuff (and yes, I did the p99 optimization stuff your SRE heart loves)
-- Machine Learning for actual medicine, CT scan analysis for cancer patients
+- Core infra at Shopify that kept things running while you were buying your Black Friday stuff
+- Machine Learning for actual medicine and CT scan analysis for cancer patients
 - Stuffed Tensorflow inside Ruby (Ruby Association gave me a high five for that)
 
 
