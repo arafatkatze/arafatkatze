@@ -2,7 +2,7 @@
 ## Hi, I’m Ara 
 If you’ve landed here, congratulations.
 
-You found a builder of beautiful things. I love art, but my canvas is technology, I spend my days poking, prodding, and sometimes enticing AI into building fresh, weird, and delightful experiences. Whether that means shipping production ready code or hacking together something “just to see if it works”.
+You found a builder of beautiful things. I love art, and my canvas is technology, I spend my days poking, prodding, and sometimes enticing AI into building fresh, weird, and delightful experiences. Whether that means shipping production ready code or hacking together something “just to see if it works”.
 
  If you want coding agents? I’m building em (see Cline, where I’m currently trying to wrangle the world’s best AI coding agent into existence).
 
