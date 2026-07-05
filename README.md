@@ -1,7 +1,7 @@
 ## Hello, This is Ara
 If you’ve landed here, thanks for your interest.
 
-You have found a host of beauty. I love art, and my currently I use technology to express myself. I spend my days poking, prodding, and sometimes enticing AI into building novel ideas.
+I love art, and my currently I use technology to express myself. I spend my days poking, prodding, and sometimes enticing AI into building novel ideas.
 
  If you want coding agents? I’m building em (see Cline, where I’m currently trying to wrangle the world’s best AI coding agent into existence).
 
